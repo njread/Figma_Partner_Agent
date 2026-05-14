@@ -1,0 +1,8 @@
+# Partner Activity Agent — account list
+# Columns: name,domain,github_org,figma_plugin_id,tags,owner,notes
+# Lines beginning with "#" are ignored. Quote fields that contain commas.
+# Examples (replace with your real partners):
+#Linear,linear.app,linear,,saas;pm,nread,Strong design-tooling integrations
+#Notion,notion.so,makenotion,,saas;docs,nread,
+#Vercel,vercel.com,vercel,,devtools,nread,Watch for Code Connect work
+name,domain,github_org,figma_plugin_id,tags,owner,notes
